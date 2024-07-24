@@ -232,7 +232,7 @@ footer{
     }
     footer{
        width: calc(100% - 150px);
-       margin-left: 250px;
+       margin-left: 15vw;
     }
     h1{
         font-size: large;
