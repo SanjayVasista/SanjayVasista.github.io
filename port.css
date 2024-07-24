@@ -181,12 +181,13 @@ footer{
 
 @media only screen and (max-width:450px){
     header{
-        width:25vw;
+        width:40vw;
         height: calc(100%);
         margin:0px;
         padding: 0%;
         background-color:rgb(71, 67, 67);
         position: fixed;
+        scroll-behavior: initial;
     }
     main{
         margin: 0px;
@@ -218,11 +219,11 @@ footer{
         height: auto;
         top:150px;
         position: relative;
-        left: 360px;
+        left: 340px;
     }
     #name{
         top:350px;
-        left: 320px;
+        left: 310px;
     }
     #details, #skills, #projects{
         margin-left: 40%;
