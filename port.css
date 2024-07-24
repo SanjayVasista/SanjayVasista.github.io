@@ -181,7 +181,7 @@ footer{
 
 @media only screen and (max-width:450px){
     header{
-        width:15vw;
+        width:25vw;
         height: calc(100%);
         margin:0px;
         padding: 0%;
@@ -232,8 +232,8 @@ footer{
         margin-top: 100px;
     }
     footer{
-       width: calc(100% - 15vw);
-       margin-left: 15vw;
+       width: calc(100%);
+       margin-left: 25vw;
     }
     h1{
         font-size: large;
