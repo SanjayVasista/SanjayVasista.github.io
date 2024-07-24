@@ -186,6 +186,7 @@ footer{
         margin:0px;
         padding: 0%;
         background-color:rgb(71, 67, 67);
+        position: fixed;
     }
     main{
         margin: 0px;
@@ -224,14 +225,14 @@ footer{
         left: 320px;
     }
     #details, #skills, #projects{
-        margin-left: 36%;
+        margin-left: 40%;
         width: 300px;
     }
     #details{
         margin-top: 100px;
     }
     footer{
-       width: calc(100% - 150px);
+       width: calc(100% - 15vw);
        margin-left: 15vw;
     }
     h1{
